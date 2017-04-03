@@ -1,0 +1,21 @@
+h3{
+	font-family: "微软雅黑";
+}
+
+.main{
+	max-width: 900px;
+	margin: 0 auto;
+}
+.carousel{
+	margin-bottom: 10px;
+}
+.media:hover{
+	box-shadow: 5px 5px 5px #E2E2E2;
+}
+.media{
+	max-width: 900px;
+}
+.media img{
+	max-width: 220px;
+}
+
